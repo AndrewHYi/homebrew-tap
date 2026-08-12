@@ -1,6 +1,6 @@
 cask "lil-ccgw" do
-  version "0.1.0"
-  sha256 "5de794acf5c06aded3ee2e9875ad815eed66980634ba661c84b9cd152956d1d7"
+  version "0.1.1"
+  sha256 "0b14203a98cbc908648b4893493b4ac66adeddab789452bf09a748e0eb453df8"
 
   url "https://github.com/AndrewHYi/lil-ccgw/releases/download/v#{version}/lil-ccgw-#{version}.zip"
   name "lil-ccgw"
