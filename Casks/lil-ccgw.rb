@@ -7,7 +7,7 @@ cask "lil-ccgw" do
   desc "Menu bar app for the ccgw Claude Code cost gateway"
   homepage "https://github.com/AndrewHYi/lil-ccgw"
 
-  depends_on macos: ">= :sonoma" # macOS 14
+  depends_on macos: :sonoma # macOS 14
 
   app "lil-ccgw.app"
 
